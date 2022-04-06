@@ -1,4 +1,4 @@
-### Hey 👋, I am Prateek!
+### Hey 👋, I am Prateek! <br><br>
 
 <img align="right" src="https://github.com/bit-by-bits/bit-by-bits/blob/main/coco.gif" width="30%" style="margin-bottom: 50px;" />
 
@@ -25,7 +25,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bit-by-bits&show_icons=true&theme=dracula" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bit-by-bits&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bit_by_bits&theme=dracula" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bit-by-bits&layout=compact&theme=dracula" />
