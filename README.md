@@ -22,7 +22,7 @@
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#110](https://github.com/dvm-bitspilani/DVM-Portfolio/pull/110) in [dvm-bitspilani/DVM-Portfolio](https://github.com/dvm-bitspilani/DVM-Portfolio)
 2. 💪 Opened PR [#29](https://github.com/dvm-bitspilani/apogee-2022-main/pull/29) in [dvm-bitspilani/apogee-2022-main](https://github.com/dvm-bitspilani/apogee-2022-main)
-3. 💪 Opened PR [#1](https://github.com/DankMemes4President/CertificatePortalDVM/pull/1) in [DankMemes4President/CertificatePortalDVM](https://github.com/DankMemes4President/CertificatePortalDVM)
+3. 💪 Opened PR [#25](https://github.com/dvm-bitspilani/apogee-2022-main/pull/25) in [dvm-bitspilani/apogee-2022-main](https://github.com/dvm-bitspilani/apogee-2022-main)
 4. 💪 Opened PR [#25](https://github.com/dvm-bitspilani/apogee-2022-main/pull/25) in [dvm-bitspilani/apogee-2022-main](https://github.com/dvm-bitspilani/apogee-2022-main)
 <!--END_SECTION:activity-->
 
