@@ -1,20 +1,19 @@
 ### Hey 👋, I am Prateek!
 - 👨‍🎓 B.E. Computer Science undergraduate from Birla Institute of Technology and Science (BITS) Pilani, India
-- 💖 Interested in Web Development (Front/Back/Design)
-- 🌱 Learning **Full Stack Web** development and looking to collaborate on **MERN** projects.
+- 💖 Interested in collaboration on **MERN** projects.
+- 🌱 Learning full-stack Web (Front/Back/UI-UX) Dev.
 - 💬 Ask me anything, always willing to help!
 - 📫 Reach out to me any time. I will try to respond within a day. Links follow-
 
 <!-- Connection Links -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-kashyap-770647226/)&nbsp;&nbsp;
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bit-by-bits/)&nbsp;&nbsp;
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/bit-by-bits)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kashyapprateek13@gmail.com)
 
 <!-- User Stats -->
 <p align="center">
-  <img align="center" src="https://badges.pufler.dev/years/bit-by-bits" />  
+  <img align="center" src="https://img.shields.io/github/followers/bit-by-bits?style=social" />  
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=bit-by-bits.visitor-badge" />
-  <img align="center" src="https://badges.pufler.dev/repos/bit-by-bits" />  
 </p>
 
 #### Recent Activity
