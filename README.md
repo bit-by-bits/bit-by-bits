@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/dvm-bitspilani/Aarohan-2020/pull/2) in [dvm-bitspilani/Aarohan-2020](https://github.com/dvm-bitspilani/Aarohan-2020)
-2. 💪 Opened PR [#110](https://github.com/dvm-bitspilani/DVM-Portfolio/pull/110) in [dvm-bitspilani/DVM-Portfolio](https://github.com/dvm-bitspilani/DVM-Portfolio)
-3. 💪 Opened PR [#29](https://github.com/dvm-bitspilani/apogee-2022-main/pull/29) in [dvm-bitspilani/apogee-2022-main](https://github.com/dvm-bitspilani/apogee-2022-main)
-4. 💪 Opened PR [#25](https://github.com/dvm-bitspilani/apogee-2022-main/pull/25) in [dvm-bitspilani/apogee-2022-main](https://github.com/dvm-bitspilani/apogee-2022-main)
+1. 💪 Opened PR [#3](https://github.com/dvm-bitspilani/Aarohan-2020/pull/3) in [dvm-bitspilani/Aarohan-2020](https://github.com/dvm-bitspilani/Aarohan-2020)
+2. 💪 Opened PR [#2](https://github.com/dvm-bitspilani/Aarohan-2020/pull/2) in [dvm-bitspilani/Aarohan-2020](https://github.com/dvm-bitspilani/Aarohan-2020)
+3. 💪 Opened PR [#110](https://github.com/dvm-bitspilani/DVM-Portfolio/pull/110) in [dvm-bitspilani/DVM-Portfolio](https://github.com/dvm-bitspilani/DVM-Portfolio)
+4. 💪 Opened PR [#29](https://github.com/dvm-bitspilani/apogee-2022-main/pull/29) in [dvm-bitspilani/apogee-2022-main](https://github.com/dvm-bitspilani/apogee-2022-main)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
