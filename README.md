@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/bit-by-bits/cc-demo/pull/1) in [bit-by-bits/cc-demo](https://github.com/bit-by-bits/cc-demo)
-2. 💪 Opened PR [#1](https://github.com/bit-by-bits/cc-demo/pull/1) in [bit-by-bits/cc-demo](https://github.com/bit-by-bits/cc-demo)
-3. 💪 Opened PR [#5](https://github.com/dvm-bitspilani/Aarohan-2020/pull/5) in [dvm-bitspilani/Aarohan-2020](https://github.com/dvm-bitspilani/Aarohan-2020)
-4. 💪 Opened PR [#4](https://github.com/dvm-bitspilani/Aarohan-2020/pull/4) in [dvm-bitspilani/Aarohan-2020](https://github.com/dvm-bitspilani/Aarohan-2020)
+1. 🎉 Merged PR [#2](https://github.com/bit-by-bits/cc-demo/pull/2) in [bit-by-bits/cc-demo](https://github.com/bit-by-bits/cc-demo)
+2. 💪 Opened PR [#2](https://github.com/bit-by-bits/cc-demo/pull/2) in [bit-by-bits/cc-demo](https://github.com/bit-by-bits/cc-demo)
+3. 🎉 Merged PR [#1](https://github.com/bit-by-bits/cc-demo/pull/1) in [bit-by-bits/cc-demo](https://github.com/bit-by-bits/cc-demo)
+4. 💪 Opened PR [#1](https://github.com/bit-by-bits/cc-demo/pull/1) in [bit-by-bits/cc-demo](https://github.com/bit-by-bits/cc-demo)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
