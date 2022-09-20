@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8898](https://github.com/mdn/content/issues/8898) in [mdn/content](https://github.com/mdn/content)
-2. 💪 Opened PR [#20810](https://github.com/mdn/content/pull/20810) in [mdn/content](https://github.com/mdn/content)
-3. 💪 Opened PR [#2851](https://github.com/h5bp/html5-boilerplate/pull/2851) in [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate)
-4. 💪 Opened PR [#2](https://github.com/bit-by-bits/cc-demo/pull/2) in [bit-by-bits/cc-demo](https://github.com/bit-by-bits/cc-demo)
+1. ❗️ Opened issue [#2](https://github.com/dvm-bitspilani/BOSM-main/issues/2) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+2. ❗️ Opened issue [#1](https://github.com/dvm-bitspilani/BOSM-main/issues/1) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+3. 🗣 Commented on [#8898](https://github.com/mdn/content/issues/8898) in [mdn/content](https://github.com/mdn/content)
+4. 💪 Opened PR [#20810](https://github.com/mdn/content/pull/20810) in [mdn/content](https://github.com/mdn/content)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
