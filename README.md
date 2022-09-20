@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/dvm-bitspilani/BOSM-main/issues/2) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
-2. ❗️ Opened issue [#1](https://github.com/dvm-bitspilani/BOSM-main/issues/1) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
-3. 🗣 Commented on [#8898](https://github.com/mdn/content/issues/8898) in [mdn/content](https://github.com/mdn/content)
-4. 💪 Opened PR [#20810](https://github.com/mdn/content/pull/20810) in [mdn/content](https://github.com/mdn/content)
+1. ❗️ Opened issue [#12](https://github.com/dvm-bitspilani/BOSM-main/issues/12) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+2. ❗️ Opened issue [#11](https://github.com/dvm-bitspilani/BOSM-main/issues/11) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+3. ❗️ Opened issue [#10](https://github.com/dvm-bitspilani/BOSM-main/issues/10) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+4. ❗️ Opened issue [#9](https://github.com/dvm-bitspilani/BOSM-main/issues/9) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
