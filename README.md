@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/dvm-bitspilani/BOSM-main/issues/12) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
-2. ❗️ Opened issue [#11](https://github.com/dvm-bitspilani/BOSM-main/issues/11) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
-3. ❗️ Opened issue [#10](https://github.com/dvm-bitspilani/BOSM-main/issues/10) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
-4. ❗️ Opened issue [#9](https://github.com/dvm-bitspilani/BOSM-main/issues/9) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+1. ❗️ Opened issue [#7](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/7) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
+2. ❗️ Opened issue [#6](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/6) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
+3. ❗️ Opened issue [#5](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/5) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
+4. ❗️ Opened issue [#4](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/4) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
