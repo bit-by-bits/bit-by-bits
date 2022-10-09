@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/8) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
-2. ❗️ Opened issue [#7](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/7) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
-3. ❗️ Opened issue [#6](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/6) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
-4. ❗️ Opened issue [#5](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/5) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
+1. 🎉 Merged PR [#2](https://github.com/bit-by-bits/DYP-RIMS/pull/2) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+2. 💪 Opened PR [#2](https://github.com/bit-by-bits/DYP-RIMS/pull/2) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+3. 🎉 Merged PR [#1](https://github.com/bit-by-bits/DYP-RIMS/pull/1) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+4. 💪 Opened PR [#1](https://github.com/bit-by-bits/DYP-RIMS/pull/1) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
