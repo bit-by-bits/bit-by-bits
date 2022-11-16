@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#408](https://github.com/ryanmcdermott/clean-code-javascript/pull/408) in [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-2. 💪 Opened PR [#4](https://github.com/GDSC-BITSP/BITSClubs/pull/4) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
-3. 💪 Opened PR [#3](https://github.com/GDSC-BITSP/BITSClubs/pull/3) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
-4. 🎉 Merged PR [#4](https://github.com/bit-by-bits/DYP-RIMS/pull/4) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+1. 💪 Opened PR [#24973](https://github.com/mrdoob/three.js/pull/24973) in [mrdoob/three.js](https://github.com/mrdoob/three.js)
+2. 💪 Opened PR [#408](https://github.com/ryanmcdermott/clean-code-javascript/pull/408) in [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+3. 💪 Opened PR [#4](https://github.com/GDSC-BITSP/BITSClubs/pull/4) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
+4. 💪 Opened PR [#3](https://github.com/GDSC-BITSP/BITSClubs/pull/3) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
