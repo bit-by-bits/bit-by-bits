@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/GDSC-BITSP/BITSClubs/pull/4) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
-2. 💪 Opened PR [#3](https://github.com/GDSC-BITSP/BITSClubs/pull/3) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
-3. 🎉 Merged PR [#4](https://github.com/bit-by-bits/DYP-RIMS/pull/4) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
-4. 💪 Opened PR [#4](https://github.com/bit-by-bits/DYP-RIMS/pull/4) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+1. 💪 Opened PR [#408](https://github.com/ryanmcdermott/clean-code-javascript/pull/408) in [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+2. 💪 Opened PR [#4](https://github.com/GDSC-BITSP/BITSClubs/pull/4) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
+3. 💪 Opened PR [#3](https://github.com/GDSC-BITSP/BITSClubs/pull/3) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
+4. 🎉 Merged PR [#4](https://github.com/bit-by-bits/DYP-RIMS/pull/4) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
