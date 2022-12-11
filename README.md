@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#408](https://github.com/ryanmcdermott/clean-code-javascript/pull/408) in [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-2. 💪 Opened PR [#5](https://github.com/GDSC-BITSP/BITSClubs/pull/5) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
-3. ❌ Closed PR [#4](https://github.com/GDSC-BITSP/BITSClubs/pull/4) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
-4. 💪 Opened PR [#24973](https://github.com/mrdoob/three.js/pull/24973) in [mrdoob/three.js](https://github.com/mrdoob/three.js)
+1. ❗️ Closed issue [#10](https://github.com/dvm-bitspilani/BOSM-main/issues/10) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+2. ❗️ Closed issue [#8](https://github.com/dvm-bitspilani/BOSM-main/issues/8) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+3. ❗️ Closed issue [#6](https://github.com/dvm-bitspilani/BOSM-main/issues/6) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+4. ❗️ Closed issue [#8](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/8) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
