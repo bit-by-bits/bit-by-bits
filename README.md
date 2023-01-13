@@ -27,7 +27,7 @@
 
 <!-- Coding Stats -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bit-by-bits&show_icons=true&theme=dark" /> <br><br>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bit-by-bits&show_icons=true&theme=dark" /> <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bit-by-bits&theme=dark" /> <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=bit_by_bits&layout=compact&theme=dark" />  
 </p>
