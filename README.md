@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/dvm-bitspilani/BOSM-main/issues/10) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
-2. ❗️ Closed issue [#8](https://github.com/dvm-bitspilani/BOSM-main/issues/8) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
-3. ❗️ Closed issue [#6](https://github.com/dvm-bitspilani/BOSM-main/issues/6) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
-4. ❗️ Closed issue [#8](https://github.com/dvm-bitspilani/OASIS-2022-Main/issues/8) in [dvm-bitspilani/OASIS-2022-Main](https://github.com/dvm-bitspilani/OASIS-2022-Main)
+1. ❗️ Opened issue [#1](https://github.com/dvm-bitspilani/apogee-2023-main/issues/1) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
+2. ❗️ Closed issue [#10](https://github.com/dvm-bitspilani/BOSM-main/issues/10) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+3. ❗️ Closed issue [#8](https://github.com/dvm-bitspilani/BOSM-main/issues/8) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
+4. ❗️ Closed issue [#6](https://github.com/dvm-bitspilani/BOSM-main/issues/6) in [dvm-bitspilani/BOSM-main](https://github.com/dvm-bitspilani/BOSM-main)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
