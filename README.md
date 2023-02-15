@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/dvm-bitspilani/apogee-2023-main/issues/9) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-2. ❗️ Opened issue [#8](https://github.com/dvm-bitspilani/apogee-2023-main/issues/8) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-3. ❗️ Opened issue [#7](https://github.com/dvm-bitspilani/apogee-2023-main/issues/7) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-4. ❗️ Opened issue [#6](https://github.com/dvm-bitspilani/apogee-2023-main/issues/6) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
+1. ❗️ Closed issue [#8](https://github.com/dvm-bitspilani/apogee-2023-main/issues/8) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
+2. ❗️ Closed issue [#7](https://github.com/dvm-bitspilani/apogee-2023-main/issues/7) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
+3. ❗️ Opened issue [#9](https://github.com/dvm-bitspilani/apogee-2023-main/issues/9) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
+4. ❗️ Opened issue [#8](https://github.com/dvm-bitspilani/apogee-2023-main/issues/8) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
