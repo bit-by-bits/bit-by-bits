@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/dvm-bitspilani/apogee-2023-main/issues/16) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-2. ❗️ Opened issue [#15](https://github.com/dvm-bitspilani/apogee-2023-main/issues/15) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-3. ❗️ Opened issue [#14](https://github.com/dvm-bitspilani/apogee-2023-main/issues/14) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-4. ❗️ Opened issue [#13](https://github.com/dvm-bitspilani/apogee-2023-main/issues/13) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
+1. 💪 Opened PR [#3](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/3) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
+2. ❌ Closed PR [#2](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/2) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
+3. 💪 Opened PR [#2](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/2) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
+4. ❗️ Opened issue [#16](https://github.com/dvm-bitspilani/apogee-2023-main/issues/16) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
