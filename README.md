@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/bit-by-bits/Gambling-Mathematics/pull/3) in [bit-by-bits/Gambling-Mathematics](https://github.com/bit-by-bits/Gambling-Mathematics)
-2. 💪 Opened PR [#3](https://github.com/bit-by-bits/Gambling-Mathematics/pull/3) in [bit-by-bits/Gambling-Mathematics](https://github.com/bit-by-bits/Gambling-Mathematics)
-3. 💪 Opened PR [#4](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/4) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
-4. 💪 Opened PR [#3](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/3) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
+1. ❌ Closed PR [#5](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/5) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
+2. 💪 Opened PR [#5](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/5) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
+3. 🎉 Merged PR [#3](https://github.com/bit-by-bits/Gambling-Mathematics/pull/3) in [bit-by-bits/Gambling-Mathematics](https://github.com/bit-by-bits/Gambling-Mathematics)
+4. 💪 Opened PR [#3](https://github.com/bit-by-bits/Gambling-Mathematics/pull/3) in [bit-by-bits/Gambling-Mathematics](https://github.com/bit-by-bits/Gambling-Mathematics)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
