@@ -19,8 +19,8 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/GDSC-BITSP/BITSClubs/pull/5) in [GDSC-BITSP/BITSClubs](https://github.com/GDSC-BITSP/BITSClubs)
-2. ❌ Closed PR [#5](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/5) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
+1. 🎉 Merged PR [#5](https://github.com/bit-by-bits/DYP-RIMS/pull/5) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+2. 💪 Opened PR [#5](https://github.com/bit-by-bits/DYP-RIMS/pull/5) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
 3. 💪 Opened PR [#5](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/5) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
 4. 🎉 Merged PR [#3](https://github.com/bit-by-bits/Gambling-Mathematics/pull/3) in [bit-by-bits/Gambling-Mathematics](https://github.com/bit-by-bits/Gambling-Mathematics)
 <!--END_SECTION:activity-->
