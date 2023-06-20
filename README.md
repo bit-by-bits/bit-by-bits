@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/bit-by-bits/DYP-RIMS/pull/5) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
-2. 💪 Opened PR [#5](https://github.com/bit-by-bits/DYP-RIMS/pull/5) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
-3. 💪 Opened PR [#5](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session/pull/5) in [anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session](https://github.com/anubhavelhence/Microprocessor-Programming-and-Interfacing-MuP-Lab-Session)
-4. 🎉 Merged PR [#3](https://github.com/bit-by-bits/Gambling-Mathematics/pull/3) in [bit-by-bits/Gambling-Mathematics](https://github.com/bit-by-bits/Gambling-Mathematics)
+1. 🎉 Merged PR [#7](https://github.com/bit-by-bits/DYP-RIMS/pull/7) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+2. ❌ Reopened PR [#7](https://github.com/bit-by-bits/DYP-RIMS/pull/7) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+3. ❌ Closed PR [#7](https://github.com/bit-by-bits/DYP-RIMS/pull/7) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+4. 💪 Opened PR [#7](https://github.com/bit-by-bits/DYP-RIMS/pull/7) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
