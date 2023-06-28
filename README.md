@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#16](https://github.com/dvm-bitspilani/apogee-2023-main/issues/16) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-2. 🔒 Closed issue [#14](https://github.com/dvm-bitspilani/apogee-2023-main/issues/14) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-3. 🔒 Closed issue [#13](https://github.com/dvm-bitspilani/apogee-2023-main/issues/13) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
-4. 🔒 Closed issue [#15](https://github.com/dvm-bitspilani/apogee-2023-main/issues/15) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
+1. 🎉 Merged PR [#9](https://github.com/bit-by-bits/DYP-RIMS/pull/9) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+2. 💪 Opened PR [#9](https://github.com/bit-by-bits/DYP-RIMS/pull/9) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+3. 🔒 Closed issue [#16](https://github.com/dvm-bitspilani/apogee-2023-main/issues/16) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
+4. 🔒 Closed issue [#14](https://github.com/dvm-bitspilani/apogee-2023-main/issues/14) in [dvm-bitspilani/apogee-2023-main](https://github.com/dvm-bitspilani/apogee-2023-main)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
