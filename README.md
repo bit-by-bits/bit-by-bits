@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/bit-by-bits/DYP-RIMS/pull/10) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
-2. 💪 Opened PR [#10](https://github.com/bit-by-bits/DYP-RIMS/pull/10) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
-3. 🎉 Merged PR [#9](https://github.com/bit-by-bits/DYP-RIMS/pull/9) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
-4. 💪 Opened PR [#9](https://github.com/bit-by-bits/DYP-RIMS/pull/9) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+1. 🎉 Merged PR [#11](https://github.com/bit-by-bits/DYP-RIMS/pull/11) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+2. 💪 Opened PR [#11](https://github.com/bit-by-bits/DYP-RIMS/pull/11) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+3. 🎉 Merged PR [#10](https://github.com/bit-by-bits/DYP-RIMS/pull/10) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+4. 💪 Opened PR [#10](https://github.com/bit-by-bits/DYP-RIMS/pull/10) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
