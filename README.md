@@ -19,10 +19,10 @@
 #### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ankytheape/frontend/pull/2) in [ankytheape/frontend](https://github.com/ankytheape/frontend)
-2. 🎉 Merged PR [#11](https://github.com/bit-by-bits/DYP-RIMS/pull/11) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
-3. 💪 Opened PR [#11](https://github.com/bit-by-bits/DYP-RIMS/pull/11) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
-4. 🎉 Merged PR [#10](https://github.com/bit-by-bits/DYP-RIMS/pull/10) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+1. 🎉 Merged PR [#12](https://github.com/bit-by-bits/DYP-RIMS/pull/12) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+2. 💪 Opened PR [#12](https://github.com/bit-by-bits/DYP-RIMS/pull/12) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
+3. 💪 Opened PR [#2](https://github.com/ankytheape/frontend/pull/2) in [ankytheape/frontend](https://github.com/ankytheape/frontend)
+4. 🎉 Merged PR [#11](https://github.com/bit-by-bits/DYP-RIMS/pull/11) in [bit-by-bits/DYP-RIMS](https://github.com/bit-by-bits/DYP-RIMS)
 <!--END_SECTION:activity-->
 
 <!-- Coding Stats -->
